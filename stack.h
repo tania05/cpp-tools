@@ -1,6 +1,6 @@
 
-#ifndef TEST_H
-#define TEST_H
+#ifndef STACK_H
+#define STACK_H
 #include <stdlib.h>
 #include <stdio.h>
 
