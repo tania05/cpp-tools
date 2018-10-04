@@ -1,4 +1,4 @@
-#include "test.h"
+#include "stack.h"
 #include <string.h>
 
 void stackNew(Stack* s, int capacity, int elementSize){
